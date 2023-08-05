@@ -1,6 +1,6 @@
 const config = {
   // api: 'http://localhost:1337',
-  apiUrl: `${process.env.BACKEND_SERVER}`,
+  apiUrl: "https://centumbackend.onrender.com",
   // apiUrl: process.env.REACT_APP_BASEURL,
   //api: 'http://192.168.29.204:9096/api',
   options: {
